@@ -920,7 +920,7 @@ with tab_meth:
 - Shehabi, A., et al. (2024). *2024 United States Data Center Energy Usage Report.* Lawrence Berkeley National Laboratory. https://eta.lbl.gov/publications/2024-lbnl-data-center-energy-usage-report
 - IPCC AR6 WG1, Chapter 5 (Canadell et al. 2021): TCRE of 1.65 [1.0–2.3] °C per 1000 PgC, i.e. 0.45 [0.27–0.63] °C per 1000 GtCO₂.
 - IPCC AR5 WG3 Annex III (Schlömer et al. 2014): lifecycle emission medians by technology. Check regional grid factors (e.g. EPA eGRID).
-- Apportioning warming to emitters: Ekwurzel et al. (2017), Climatic Change. Verify before citing.
+- Apportioning warming to emitters: Ekwurzel et al. (2017), Climatic Change.
 - IEA (2025), *Energy and AI*: data centers about 415 TWh in 2024 (about 1.5 % of world electricity), about 945 TWh by 2030. https://www.iea.org/reports/energy-and-ai
 - LBNL 2024 report (above): US data centers 176 TWh in 2023, 325–580 TWh by 2028; direct water about 66 billion L and indirect about 800 billion L in 2023 (indirect includes hydropower reservoir evaporation).
 - The Green Grid — definitions of PUE and WUE.
