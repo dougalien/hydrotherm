@@ -15,6 +15,8 @@ import io
 import csv
 
 import streamlit as st
+
+import dougalien_brand as brand
 import plotly.graph_objects as go
 import matplotlib
 
@@ -68,7 +70,8 @@ def md(text: str) -> None:
 # ---------------------------------------------------------------------------
 # Page
 # ---------------------------------------------------------------------------
-st.set_page_config(page_title="DC Water vs ET", layout="wide")
+st.set_page_config(page_title="DC Water vs ET", layout="wide", page_icon=brand.page_icon("🪨"))
+brand.apply_branding()
 st.title("Data Center Cooling Water vs. Climate-Driven Evapotranspiration")
 st.caption(
     "Simple energy-balance comparison. Both processes are the same physics: "
